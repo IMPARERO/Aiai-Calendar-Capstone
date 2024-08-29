@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I just stole this app from Github:"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/ggggg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.196"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <TextView
+        android:id="@+id/sssss"
+        android:layout_width="361dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="56dp"
+        android:text="Support:"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/eeeee"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/eeeee"
+        android:layout_width="335dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="92dp"
+        android:text="aiaidevelopers@duck.com"
+        android:textColor="@color/md_blue"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.671"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.266" />
+
+    <TextView
+        android:id="@+id/ggggg"
+        android:layout_width="339dp"
+        android:layout_height="91dp"
+        android:layout_marginBottom="4dp"
+        android:text="https://github.com/SimpleMobileTools/Simple-Calendar"
+        android:textColor="@color/md_blue"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/rickroll"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.923" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="Donate:"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.073"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageButton
+        android:id="@+id/gohome"
+        android:layout_width="57dp"
+        android:layout_height="52dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_arrow_left_vector" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="283dp"
+        android:layout_height="363dp"
+        android:layout_marginBottom="184dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/donate" />
+
+    <TextView
+        android:id="@+id/rickroll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="►click this◄"
+        android:textColor="@color/divider_grey"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.894" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
