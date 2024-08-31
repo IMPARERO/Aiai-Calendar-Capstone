@@ -17,11 +17,12 @@ Aiai Calendar is an AI-driven calendar app to help everybody use their time wise
 
 email us: aiaidevelopers@duck.com
 
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' /></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.calendar.pro'><img src='https://simplemobiletools.com/images/button-fdroid.svg' alt='Get it on F-Droid' height='45' /></a>
+Download here
 
 <div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.jpeg" width="30%">
+<img alt="App image" src="graphics/1.png" width="30%">
+<img alt="App image" src="graphics/2.png" width="30%">
+<img alt="App image" src="graphics/3.png" width="30%">
+<img alt="App image" src="graphics/4.png" width="30%">
+<img alt="App image" src="graphics/5.png" width="30%">    
 </div>
