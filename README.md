@@ -1,4 +1,4 @@
-# Simple Calendar
+# Aiai Calendar: Enhancing Time Management with an Ai-Driven Calendar Application
 <img alt="Logo" src="graphics/aio_.jpg" width="200" />
 
 Project Context
