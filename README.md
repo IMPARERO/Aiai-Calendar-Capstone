@@ -19,8 +19,10 @@ email us: aiaidevelopers@duck.com
 
 Download here
 <div>
-<a href="https://www.wikihow.com"><img src="graphics/dl.png" width="10%"></a>
+<a href="https://drive.google.com/file/d/1w_z8BQrjS6nFYMxdFYZxhpUIn0xb-ssh/view?usp=drive_link"><img src="graphics/dl.png" width="15%"></a>
 </div>
+"Aiai Calendar.apk" (38.4MB)
+
 <div style="display:flex;">
 <img alt="App image" src="graphics/1.png" width="">
 <img alt="App image" src="graphics/2.png" width="">
@@ -31,5 +33,6 @@ Download here
 
 Download here
 <div>
-<a href="https://www.wikihow.com"><img src="graphics/dl.png" width="10%"></a>
+<a href="https://drive.google.com/file/d/1w_z8BQrjS6nFYMxdFYZxhpUIn0xb-ssh/view?usp=drive_link"><img src="graphics/dl.png" width="15%"></a>
 </div>
+"Aiai Calendar.apk" (38.4MB)
