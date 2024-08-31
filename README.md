@@ -1,5 +1,5 @@
 # Simple Calendar
-<img alt="Logo" src="graphics/aio_.jpg" width="120" />
+<img alt="Logo" src="graphics/aio_.jpg" width="200" />
 
 Project Context
 
@@ -20,9 +20,9 @@ email us: aiaidevelopers@duck.com
 Download here
 
 <div style="display:flex;">
-<img alt="App image" src="graphics/1.png" width="30%">
-<img alt="App image" src="graphics/2.png" width="30%">
-<img alt="App image" src="graphics/3.png" width="30%">
-<img alt="App image" src="graphics/4.png" width="30%">
-<img alt="App image" src="graphics/5.png" width="30%">    
+<img alt="App image" src="graphics/1.png" width="">
+<img alt="App image" src="graphics/2.png" width="">
+<img alt="App image" src="graphics/3.png" width="">
+<img alt="App image" src="graphics/4a.png" width="">
+<img alt="App image" src="graphics/5.png" width="">    
 </div>
