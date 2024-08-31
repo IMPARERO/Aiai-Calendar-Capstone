@@ -18,6 +18,7 @@ Aiai Calendar is an AI-driven calendar app to help everybody use their time wise
 email us: aiaidevelopers@duck.com
 
 Download here
+<a href="https://www.wikihow.com"><img src="graphics/dl.png" width=""></a>
 
 <div style="display:flex;">
 <img alt="App image" src="graphics/1.png" width="">
@@ -26,3 +27,6 @@ Download here
 <img alt="App image" src="graphics/4a.png" width="">
 <img alt="App image" src="graphics/5.png" width="">    
 </div>
+
+Download here
+<a href="https://www.wikihow.com"><img src="graphics/dl.png" width=""></a>
