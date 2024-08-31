@@ -1,70 +1,28 @@
 # Simple Calendar
-<img alt="Logo" src="graphics/icon.png" width="120" />
+<img alt="Logo" src="graphics/aio_.jpg" width="120" />
 
-Simple Calendar 2023 is a highly customizable, offline monthly calendar app for Android. Have an agenda planner in your pocket, designed to do exactly what a personal tiny schedule planner should do in 2023. No complicated features, unnecessary permissions, or ads!  
-***Supports syncing events via Google Calendar
+Project Context
 
-Download now!
+People nowadays deal with more complicated issues when it comes to successfully and efficiently managing their time. Conventional calendar applications, with their limited features, ineffective time-blocking, and passive reminders, frequently lack the flexibility needed to effectively manage the dynamic nature of the modern people's schedules. “The world of technical analysis for investing is highly susceptible to analysis paralysis.”(James Chen, 2022) This is an instance of how specific types of people can be impacted by a phenomenon known as "analysis paralysis". “Analysis paralysis is a very old human problem. See Shakespeare's Hamlet for a classic example of the potential perils of over-thinking a decision.”(James Chen, 2022). Furthermore, analysis paralysis induces individuals to procrastinate, despite having knowledge of the tasks at hand. “You convince yourself that the problem is that you haven’t really figured things out enough to get started. As you mentally shift the idea of taking action into the future, your tension subsides you delay it some more.” (Scott Young, 2019).
+To address these limitations and the challenges posed by continuous modernization, this project proposes the development and implementation of an advanced calendar system named Aiai Calendar. This system leverages artificial intelligence (AI) technology to enhance traditional calendaring functions and improve time management efficiency.
 
-Daily Digital Schedule App: Take Control of Your Time
-Whether you are looking for a work calendar for business, a day planner, an appointment scheduler, or organization and scheduling of single and recurring events like birthdays, anniversary, appointment reminder, or anything else, Simple Calendar 2023 makes it easy to stay organized. The calendar widget has an incredible variety of customization options: customize event reminders, notification appearance, tiny calendar reminders widget, and overall appearance.
+In designing Aiai Calendar, insights from the study "Artificial Intelligence to Solve Production Scheduling Problems in Real Industrial Settings: Systematic Literature Review" are particularly relevant. This study identifies key AI techniques such as particle swarm optimization (PSO), neural networks (NNs), and reinforcement learning (RL) that have been effectively used in production scheduling to reduce costs, increase energy efficiency, and improve scheduling outcomes (Del Gallo et al, 2023). By incorporating these advanced AI techniques, Aiai Calendar aims to offer a more dynamic and adaptive scheduling solution.
+Additionally, findings from "Groupware in Practice: An Interpretation of Work Experiences" underscore the importance of effective interface design and user experience in the adoption of groupware tools. The study highlights that messaging feature helps teams work together more effectively (Team Kissflow, 2024). This insight suggests that for Aiai Calendar to be successful, it must prioritize ease of use and seamless integration of its various functionalities to ensure that users can effectively manage their time without the frustration of navigating complex interfaces.
+By integrating AI capabilities and focusing on user-centric design principles, Aiai Calendar seeks to transcend the limitations of conventional calendar applications, offering a robust solution to the time management challenges faced by modern individuals.
 
-Schedule Planner: Plan Your Day
-Appointment scheduler, monthly planner, and family organizer in one! Check your upcoming agenda, schedule business meetings, and events & book appointments easily. Reminders will keep you on time and informed on your daily schedule app. This 2023 calendar widget is remarkably easy to use. You can even view everything as a simple list of events rather than in a monthly view, so you know exactly what’s coming up in your life and how to organize and plan your agenda. 
 
-Simple Calendar 2023 Features
+Purpose and Description
 
-✔️ The Best User Experience  
-➕ No ads or annoying popups, truly great user experience!  
-➕ No internet access is needed, giving you more privacy, security, and stability
+Aiai Calendar is an AI-driven calendar app to help everybody use their time wisely. This app has a calendar interface through which a user can easily create tasks and events. It offers chat-based scheduling to make quick and easy scheduling using time-blocking to help in breaking down your day into time blocks, Reminders on Events, and Tasks to keep track of your to-do list and make sure to complete them on time. Aiai Calendar stands out with its ability to give personalized AI-driven understanding toward making schedules based on individual needs and preference. It can help ensure time is better managed by having an optimal day, reduce stress by nullifying guesswork and analysis paralysis, and boost productivity with the help of being organized.
 
-✔️ Flexibility for Your Productivity  
-➕ Calendar Widget supports exporting & importing events via .ics files  
-➕ Export settings to .txt files to import to another device  
-➕ Flexible event creation – times, duration, reminders, powerful repetition rules  
-➕ CalDAV support for syncing events via Google Calendar, Microsoft Outlook, Nextcloud, Exchange, etc
+email us: aiaidevelopers@duck.com
 
-✔️ Personalized Just for You  
-➕ Schedule planner - customize and change sound, looping, audio stream, vibrations  
-➕ Calendar widget - Colorful Calendars and customizable themes  
-➕ Open source tiny calendar, translated into 30+ languages  
-➕ Plan your day with others - ability to share events fast on social media, emails, etc  
-➕ Family Organizer - with hasslefree event duplication, organization, and time management
-
-✔️ Organization and Time Management  
-➕ Day planner - the agenda planner will help you to organize your day  
-➕ Weekly planner - staying ahead of your busy weekly schedule has never been easier  
-➕ Itinerary manager - business calendar shared between teams at work  
-➕ Appointment scheduler - organize and maintain your agenda with ease  
-➕ Planning app - easy to use personal event, appointment reminder, and schedule planner  
-➕ Plan your day - manage your day with this android schedule planner, event & family organizer
-
-✔️ #1 Calendar App  
-➕ Import holidays, contact birthdays, and anniversaries easily  
-➕ Filter personal events quickly by event type  
-➕ Daily schedule and event location, shown on a map  
-➕ Quick business calendar, or personal digital agenda  
-➕ Quickly switch between daily, weekly, monthly, yearly & event views
-
-DOWNLOAD SIMPLE CALENDAR PLANNER – OFFLINE SCHEDULE AND AGENDA PLANNER WITH NO ADS! PLAN YOUR 2023 TIMETABLE!
-
-Check out the full suite of Simple Tools here:  
-https://www.simplemobiletools.com
-
-Facebook:  
-https://www.facebook.com/simplemobiletools
-
-Reddit:  
-https://www.reddit.com/r/SimpleMobileTools
-
-Telegram:  
-https://t.me/SimpleMobileTools
-
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' /></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.calendar.pro'><img src='https://simplemobiletools.com/images/button-fdroid.svg' alt='Get it on F-Droid' height='45' /></a>
+Download here
 
 <div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.jpeg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.jpeg" width="30%">
+<img alt="App image" src="graphics/1.png" width="30%">
+<img alt="App image" src="graphics/2.png" width="30%">
+<img alt="App image" src="graphics/3.png" width="30%">
+<img alt="App image" src="graphics/4.png" width="30%">
+<img alt="App image" src="graphics/5.png" width="30%">    
 </div>
