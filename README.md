@@ -1,4 +1,5 @@
 # Aiai Calendar: Enhancing Time Management with an Ai-Driven Calendar Application
+<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;"><source src="https://github.com/IMPARERO/Aiai-Calendar-Capstone/blob/main/i%20screen%20recorded%20the%20ppt.mkv" type="video/mp4" /></video>
 <img alt="Logo" src="graphics/aio_.jpg" width="200" />
 
 Project Context
